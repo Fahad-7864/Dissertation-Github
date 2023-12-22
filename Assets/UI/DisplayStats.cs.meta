@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: fac77f993ed1bf0449510c04af794d7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - everyonesStats: {fileID: 8593367086288371952, guid: bba40d60f74dce94fac7e7ab0985a732, type: 3}
+  - nameText: {fileID: 9120510684485874479, guid: f97eab3d6da975f4d876d90a07c36ab6, type: 3}
+  - hpText: {fileID: 2388699119457602904, guid: 7dbdfb0aeb0bde442a3c6a942bf5805d, type: 3}
+  - mpText: {fileID: 2831512758248125238, guid: e90689b321313e3488cc30ddd490fd8d, type: 3}
+  - attackText: {fileID: 5309689149025347164, guid: 06e629d2af994484c9b43ef6f2443df2, type: 3}
+  - defenseText: {fileID: 2597091678716959479, guid: 297d7d28c39ca714c8471ad49f1b48d0, type: 3}
+  - magicAttackText: {fileID: 3852600641570574911, guid: 6d9b6541455cda44bbfe6d4c46561a68, type: 3}
+  - magicDefenseText: {fileID: 6526760812389955471, guid: a88d59fc4d5528f41970fbb55ae417ce, type: 3}
+  - speedText: {fileID: 2491284962275698470, guid: 41aa235e04a5646439921202fbd5f27a, type: 3}
+  - accuracyText: {fileID: 6874671759707373111, guid: 28e2dfd518b8c534c9f2fd43dbbde055, type: 3}
+  - hpSlider: {fileID: 6010557416580044119, guid: 151c50e7a6f96124e994b25118ea5684, type: 3}
+  - mpSlider: {fileID: 9149462549532117718, guid: c004efddf75778e4ea33a4e5cfe63051, type: 3}
+  - statsCanvas: {fileID: 956027882211291592, guid: 8f8e704c955a95c4986da7a94c783642, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

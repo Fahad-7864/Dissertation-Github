@@ -1,0 +1,4 @@
+Utility Phase Before Movement: This checks for utility actions that may need to be performed before moving.
+Movement Phase if Utility Executed: If a utility action was executed in the first phase, this phase handles movement.
+Movement Phase if No Utility Executed: If no utility action was executed in the first phase, this phase handles movement.
+Utility Phase After Movement: This checks for utility actions after the movement phase.

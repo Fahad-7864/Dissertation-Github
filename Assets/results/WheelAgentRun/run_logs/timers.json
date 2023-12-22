@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1688236998",
+        "python_version": "3.9.13 (main, Aug 25 2022, 23:51:50) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\fahad\\anaconda3\\Scripts\\mlagents-learn config.yaml --run-id=WheelAgentRun --force",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.12.1",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1688237067"
+    },
+    "total": 69.0346266,
+    "count": 1,
+    "self": 0.013879699999989725,
+    "children": {
+        "run_training.setup": {
+            "total": 0.2719418,
+            "count": 1,
+            "self": 0.2719418
+        },
+        "TrainerController.start_learning": {
+            "total": 68.74880510000001,
+            "count": 1,
+            "self": 0.00031640000001686985,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 68.7484476,
+                    "count": 1,
+                    "self": 68.7484476
+                },
+                "TrainerController._save_models": {
+                    "total": 4.1099999990024116e-05,
+                    "count": 1,
+                    "self": 4.1099999990024116e-05
+                }
+            }
+        }
+    }
+}

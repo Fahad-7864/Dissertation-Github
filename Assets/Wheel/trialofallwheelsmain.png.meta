@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: f62843eaae8116b4c8019d3123ca92a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trialofallwheelsmain_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 519
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d7f1d75102cf74a9955606f5cebfec
+      internalID: -1894350744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 519
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb1f481bd7ec1d4db3ce4e938584295
+      internalID: -1628949417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 519
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bcdb9f7fd889542a8692d031741852
+      internalID: 68414682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 519
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc86710922bf54688a27f4666c79ca
+      internalID: 190869996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_4
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 674
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1334d917cfdf49999c159d85c9aba
+      internalID: 1011884688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_5
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 682
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366c8850c830b34e9c662f7839a7bc4
+      internalID: 1597758880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_6
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 669
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116931ee14ffad448aef9766a40987c8
+      internalID: 142874558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_7
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 661
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3018db1b1d3823409358fb4f36f97f1
+      internalID: -297759424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_8
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 682
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa64ce33df10d42bfdde0c0d09e6e5
+      internalID: 1045502152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 640
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036e0bb5b257a44390dbb5d93c657d9
+      internalID: 1766823950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 263
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc0ecfbd8ef0524a911f1f716aa2097
+      internalID: 1220396325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 263
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cda2dbf99d2f346b5c67c7d3385feb
+      internalID: 1164342188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_12
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 263
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6cad16d551cf4bb6d0f1933bf752b
+      internalID: 10656970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 263
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468edd93f5dd63a4d9f4dfb484c5b0cb
+      internalID: -513586462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_14
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 404
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc506cff7d5fe544a9bfd8398b54c87c
+      internalID: 1141301812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_15
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 405
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4043737647712374b8bd7fd2b23d0616
+      internalID: 1888347876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 402
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838cf480d5358e84fbfe4c0bf5a0601a
+      internalID: 137407417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af993b5396b818749a14d112065a7e5d
+      internalID: -1747404834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 7
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa0cfe28e6444641a70fff72f0f256d
+      internalID: 1355064806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 7
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7f2563c1576f4abf06f31aa05bffe
+      internalID: 374981961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 7
+        width: 236
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4bce38a084b9a41889368c6764903f
+      internalID: -1382091060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_21
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 75
+        width: 11
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88088617c92cc14429c7e9a09e8d481a
+      internalID: 1660842263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_22
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 46
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee8dd8ccf54da42aff663bcc18bd25
+      internalID: -1877095677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_23
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 61
+        width: 24
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb76faed554693409ec85006bcf11ea
+      internalID: 1683096782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_24
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 71
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e2587a8e31bf419586fcc6c99b5be
+      internalID: -936829781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_25
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 70
+        width: 17
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3aefbaeb6957d4caf405799d35437e
+      internalID: 2092104017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trialofallwheelsmain_26
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 66
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f60c64c87b074ab68339f3bc52a85
+      internalID: -1819171921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trialofallwheelsmain_0: -1894350744
+      trialofallwheelsmain_1: -1628949417
+      trialofallwheelsmain_10: 1220396325
+      trialofallwheelsmain_11: 1164342188
+      trialofallwheelsmain_12: 10656970
+      trialofallwheelsmain_13: -513586462
+      trialofallwheelsmain_14: 1141301812
+      trialofallwheelsmain_15: 1888347876
+      trialofallwheelsmain_16: 137407417
+      trialofallwheelsmain_17: -1747404834
+      trialofallwheelsmain_18: 1355064806
+      trialofallwheelsmain_19: 374981961
+      trialofallwheelsmain_2: 68414682
+      trialofallwheelsmain_20: -1382091060
+      trialofallwheelsmain_21: 1660842263
+      trialofallwheelsmain_22: -1877095677
+      trialofallwheelsmain_23: 1683096782
+      trialofallwheelsmain_24: -936829781
+      trialofallwheelsmain_25: 2092104017
+      trialofallwheelsmain_26: -1819171921
+      trialofallwheelsmain_3: 190869996
+      trialofallwheelsmain_4: 1011884688
+      trialofallwheelsmain_5: 1597758880
+      trialofallwheelsmain_6: 142874558
+      trialofallwheelsmain_7: -297759424
+      trialofallwheelsmain_8: 1045502152
+      trialofallwheelsmain_9: 1766823950
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
